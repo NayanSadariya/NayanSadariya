@@ -55,31 +55,34 @@
 </p>
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🪙 CrowdChain – Web3 Crowdfunding  
-> Milestone-based funding secured with smart contracts.
 
-<p align="left">
+<p align="center">
+ 🪙 CrowdChain – Web3 Crowdfunding  
+> Milestone-based funding secured with smart contracts.
+</p>
+
+<p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2txZDUxeDM2ODAwdDdyaGZhOGR1aWU3d29kMmQ1dzhzc3h0bGxoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/p8cxIHbajLNUYo0nBd/giphy.gif" width="250">
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/NayanSadariya/CrowdChain-The-future-of-Shark-Tank.git"><img src="https://img.shields.io/badge/📂%20Source%20Code-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/posts/nayan-sadariya_crowdfunding-blockchain-permissionless-activity-7281310372563742720-fsur"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-2ECC71?style=for-the-badge"></a>
 </p>
 
 ---
-
-### 🛹 Suburbia – 3D Skateboard Ecom  
+<p align="center">
+ 🛹 Suburbia – 3D Skateboard Ecom  
 > Fully animated 3D storefront with smooth UX.
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3M3d2MGxhMW40cTEwemE0MTF6N294OWU2dWx5MWVrcW82ZnQ5OTQ5ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fmMdxlVwsCmTtA4V6a/giphy.gif" width="250">
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/NayanSadariya/Skateboard-Website.git"><img src="https://img.shields.io/badge/📂%20Source%20Code-000000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://suburbia-skates-nayan.netlify.app/"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-2ECC71?style=for-the-badge"></a>
 </p>
