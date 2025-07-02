@@ -2,13 +2,11 @@
 <h3 align="center">🚀 Full Stack Engineer | 🌐 Web3 Builder | 🤖 AI Agent Developer | 🧠 LLM Tinkerer | 🛡️ Cybersecurity</h3>
 
 <p align="center">
-</p>
-
-<p align="center">
   <a href="https://nayan-sadariya.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-8E44AD?style=for-the-badge"></a>
   <a href="mailto:nayansadariya84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nayan-sadariya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
 
 ---
 
@@ -53,6 +51,13 @@
   <img src="https://img.shields.io/badge/LLM%20Agents-purple?style=for-the-badge">
   <img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge">
 </p>
+
+---
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=800&lines=Crafting+code+that+makes+a+difference+%F0%9F%92%BB;Innovating+for+a+smarter+tomorrow+%E2%9C%A8" alt="Typing Quote" />
+  </a>
+</div>
 
 ---
 ## 🚀 Featured Projects
