@@ -29,6 +29,29 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧩 CrowdChain – Decentralized Crowdfunding Platform  
+> Funding projects like Shark Tank, but powered by smart contracts.
+
+[![CrowdChain Screenshot](https://your-image-link1.jpg)](https://github.com/NayanSadariya/CrowdChain)
+
+**Tech:** Next.js · TailwindCSS · Solidity · Hardhat · Ethers.js  
+🔗 [Live Demo](https://crowdchain.vercel.app/) | 📂 [Source Code](https://github.com/NayanSadariya/CrowdChain)
+
+---
+
+### 📱 CityScan AI – Smart Civic Issue Detection  
+> An AI-powered platform that detects city issues like potholes via CCTV.
+
+[![CityScan Screenshot](https://your-image-link2.jpg)](https://github.com/NayanSadariya/CityScan-AI)
+
+**Tech:** React Native · TensorFlow · Flask · MongoDB  
+🔗 [Live Demo](https://cityscan.vercel.app/) | 📂 [Source Code](https://github.com/NayanSadariya/CityScan-AI)
+
+---
+
+
 ## 🏆 GitHub Stats & Activity
 
 <p align="center">
