@@ -1,87 +1,85 @@
-
 <!-- HEADER -->
 <h1 align="center">Hey there! 👋 I'm Nayan Sadariya</h1>
-<h3 align="center">🚀 Full Stack Engineer | 🌐 Blockchain Builder | 🤖 AI Developer | 🛡️ Cybersecurity Explorer </h3>
+<h3 align="center">🚀 Full Stack Engineer | 🌐 Blockchain Builder | 🤖 AI Developer | 🛡️ Cybersecurity Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=480&lines=Creating+Secure+&+Scalable+Apps.;Blockchain+Smart+Contracts.;AI+Agents+&+LLMs.;Front-to-Back+Web+Development.;Lover+of+Clean+Code+and+Minimal+UI."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00FFAB&center=true&vCenter=true&width=600&lines=Crafting+Tech+for+Humans.;Web+3.0+Believer.;LLMs,+Ollama,+DSA,+Clean+UI.">
 </p>
 
 <p align="center">
   <a href="https://nayan-sadariya.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-blueviolet?style=for-the-badge"></a>
-  <a href="mailto:nayansadariya84@gmail.com"><img src="https://img.shields.io/badge/✉️ Gmail-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/nayan-sadariya/"><img src="https://img.shields.io/badge/💼 LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:nayansadariya84@gmail.com"><img src="https://img.shields.io/badge/✉️ Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/nayan-sadariya/"><img src="https://img.shields.io/badge/💼 LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Building **CrowdChain** – A decentralized crowdfunding platform
-- ⚡ Skilled in **Full Stack**, **Blockchain**, **Cybersecurity**, and **DSA**
-- 🧠 Currently learning: **Ollama**, **LangChain**, **Smart Contracts**
-- ✨ I love blending beautiful UI with strong backend architecture
+- 🔭 Building **CrowdChain** – Decentralized Shark Tank
+- 💡 Skilled in **Full Stack**, **Blockchain**, **Cybersecurity**, **AI**, **DSA**
+- 🧠 Exploring **Ollama**, **LangChain**, **Smart Contracts**, **LLMs**
+- ✨ Love building interactive, aesthetic, & scalable systems
 
 ---
 
-## 💻 Skills & Technologies
+## 🧰 Tech Stack
 
-### 📊 Programming, Web, Backend, Data & Visualization
-
-![Python](https://img.shields.io/badge/PYTHON-blue?style=flat-square)
-![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-orange?style=flat-square)
-![PYTORCH](https://img.shields.io/badge/PYTORCH-EE4C2C?style=flat-square)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat-square)
-![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square)
-![TAILWIND CSS](https://img.shields.io/badge/TAILWIND_CSS-teal?style=flat-square)
-![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-purple?style=flat-square)
-![REACT](https://img.shields.io/badge/REACT-blue?style=flat-square)
-![NEXT.JS](https://img.shields.io/badge/NEXT.JS-black?style=flat-square)
-![EXPRESS.JS](https://img.shields.io/badge/EXPRESS.JS-darkgreen?style=flat-square)
-![FASTAPI](https://img.shields.io/badge/FASTAPI-teal?style=flat-square)
-![MONGODB](https://img.shields.io/badge/MONGODB-green?style=flat-square)
-![MYSQL](https://img.shields.io/badge/MYSQL-blue?style=flat-square)
-![SOLIDITY](https://img.shields.io/badge/SOLIDITY-black?style=flat-square)
-![HARDHAT](https://img.shields.io/badge/HARDHAT-yellow?style=flat-square)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardhat-F2C63D?style=flat-square&logo=ethereum" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-4A90E2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM-Agent-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Black?style=for-the-badge&logo=protonmail" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧩 CrowdChain – Future of Online Shark Tank
-
-> A decentralized crowdfunding platform with milestone-based smart contracts.
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJrMXQ4dXZ3bXJ1a2V3NHljZnJ3YXN5c2RxeWNjOHF4aWdoYjR6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fAnEC88LccN7a/giphy.gif" width="100%" />
-
-**Tech Stack**: Next.js · TailwindCSS · Solidity · Hardhat · Ethers.js  
-🔗 [LinkedIn Demo](https://www.linkedin.com/posts/nayan-sadariya_crowdfunding-blockchain-permissionless-activity-7281310372563742720-fsur) | 📂 [Source Code](https://github.com/NayanSadariya/CrowdChain-The-future-of-Shark-Tank.git)
+## ✨ SVG Divider  
+<img src="https://raw.githubusercontent.com/Akshay090/svg-section-divider/main/assets/wave.svg" width="100%"/>
 
 ---
 
-### 🛹 Suburbia – E-Commerce Skateboard Website
+## 🚀 Projects Showcase
 
-> Smooth UI with modern 3D animation using Three.js and React.
+### 🧩 CrowdChain – Smart Fundraising on Blockchain  
+> Powered by Milestone-based Smart Contracts.
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zmdm92anl4Z3hlM3V0a2U2N3EzdG1nOXZjdHIwMGtnNmF0cDZmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k9jC9OdH9eU8E/giphy.gif" width="100%" />
+![CrowdChain](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJrMXQ4dXZ3bXJ1a2V3NHljZnJ3YXN5c2RxeWNjOHF4aWdoYjR6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fAnEC88LccN7a/giphy.gif)
 
-**Tech Stack**: React · Next.js · Prismic · Three.js · Physics.js  
+**Tech:** `Next.js` · `TailwindCSS` · `Solidity` · `Hardhat` · `Ethers.js`  
+🔗 [Live Demo](https://www.linkedin.com/posts/nayan-sadariya_crowdfunding-blockchain-permissionless-activity-7281310372563742720-fsur) | 📂 [Source Code](https://github.com/NayanSadariya/CrowdChain-The-future-of-Shark-Tank.git)
+
+---
+
+### 🛹 Suburbia – 3D Skateboard E-commerce  
+> Beautiful UI, blazing-fast pages, and interactive 3D effects.
+
+![Suburbia](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Zmdm92anl4Z3hlM3V0a2U2N3EzdG1nOXZjdHIwMGtnNmF0cDZmMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/k9jC9OdH9eU8E/giphy.gif)
+
+**Tech:** `Next.js` · `React` · `Three.js` · `Prismic` · `Tailwind`  
 🔗 [Live Demo](https://suburbia-skates-nayan.netlify.app/) | 📂 [Source Code](https://github.com/NayanSadariya/Skateboard-Website.git)
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NayanSadariya&show_icons=true&theme=radical&hide=stars" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanSadariya&layout=compact&theme=radical" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NayanSadariya&show_icons=true&theme=radical&hide=stars" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NayanSadariya&layout=compact&theme=radical" width="47%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=NayanSadariya&theme=algolia" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayanSadariya&theme=react-dark&area=true&hide_border=true" />
 </p>
 
 ---
@@ -89,15 +87,17 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NayanSadariya&theme=monokai&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NayanSadariya&theme=monokai&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📬 Connect with Me
+## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nayan-sadariya/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:nayansadariya84@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail"></a>
-  <a href="https://nayan-sadariya.vercel.app/"><img src="https://img.shields.io/badge/🌐 Portfolio-blueviolet?style=flat-square"></a>
+  <a href="https://nayan-sadariya.vercel.app/"><img src="https://img.shields.io/badge/🌐 Website-purple?style=for-the-badge"></a>
+  <a href="mailto:nayansadariya84@gmail.com"><img src="https://img.shields.io/badge/✉️ Email-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/nayan-sadariya/"><img src="https://img.shields.io/badge/💼 LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
+
+---
