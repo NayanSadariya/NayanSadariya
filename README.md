@@ -13,7 +13,7 @@
 
 ---
 
-## 🧰 Tech Arsenal – Languages | Frameworks | Tools
+## 🧰 Tech Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -55,20 +55,6 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-00BFFF?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JohnTheRipper-B22222?style=for-the-badge">
-  <img src="https://img.shields.io/badge/BurpSuite-orange?style=for-the-badge">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
 ---
 
 ## 🚀 Featured Projects
@@ -77,10 +63,12 @@
 > Milestone-based funding secured with smart contracts.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="600">
-  <br>
-  <a href="https://github.com/NayanSadariya/CrowdChain-The-future-of-Shark-Tank.git"><strong>📂 Source Code</strong></a> • 
-  <a href="https://www.linkedin.com/posts/nayan-sadariya_crowdfunding-blockchain-permissionless-activity-7281310372563742720-fsur"><strong>🔗 Live Demo</strong></a>
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="450">
+</p>
+
+<p align="center">
+  <a href="https://github.com/NayanSadariya/CrowdChain-The-future-of-Shark-Tank.git"><img src="https://img.shields.io/badge/📂%20Source%20Code-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/posts/nayan-sadariya_crowdfunding-blockchain-permissionless-activity-7281310372563742720-fsur"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-2ECC71?style=for-the-badge"></a>
 </p>
 
 ---
@@ -89,10 +77,12 @@
 > Fully animated 3D storefront with smooth UX.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/k9jC9OdH9eU8E/giphy.gif" width="600">
-  <br>
-  <a href="https://github.com/NayanSadariya/Skateboard-Website.git"><strong>📂 Source Code</strong></a> • 
-  <a href="https://suburbia-skates-nayan.netlify.app/"><strong>🔗 Live Demo</strong></a>
+  <img src="https://media.giphy.com/media/k9jC9OdH9eU8E/giphy.gif" width="450">
+</p>
+
+<p align="center">
+  <a href="https://github.com/NayanSadariya/Skateboard-Website.git"><img src="https://img.shields.io/badge/📂%20Source%20Code-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://suburbia-skates-nayan.netlify.app/"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-2ECC71?style=for-the-badge"></a>
 </p>
 
 ---
@@ -110,7 +100,7 @@
 
 ---
 
-## 🏆 Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NayanSadariya&theme=darkhub&margin-w=10&no-bg=true&row=1&column=7">
@@ -124,4 +114,11 @@
   <a href="mailto:nayansadariya84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://nayan-sadariya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8E44AD?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/nayan-sadariya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"><br>
+  <strong>Show some ❤️ by following me on GitHub!</strong>
 </p>
