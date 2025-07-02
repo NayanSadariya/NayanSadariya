@@ -102,14 +102,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NayanSadariya&theme=darkhub&margin-w=10&no-bg=true&row=1&column=7">
-</p>
-
----
-
 ## 📬 Connect with Me
 
 <p align="center">
