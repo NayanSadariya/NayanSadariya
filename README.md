@@ -1,9 +1,9 @@
 <!-- HEADER -->
 <h1 align="center">Hey there! 👋 I'm Nayan Sadariya</h1>
-<h3 align="center">🚀 Full Stack Engineer | 🌐 Blockchain Builder | 🤖 AI Developer| 🛡️ Cybersecurity Explorer </h3>
+<h3 align="center">🚀 Full Stack Engineer | 🌐 Blockchain Builder | 🤖 AI Developer | 🛡️ Cybersecurity Explorer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=450&lines=Crafting+Tech+for+Humans.;Exploring+Web+3.0+Innovations.;Lover+of+Clean+Code+and+Beautiful+UI.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FFAB&center=true&vCenter=true&width=480&lines=Creating+Secure+&+Scalable+Apps.;Blockchain+Smart+Contracts.;AI+Agents+&+LLMs.;Front-to-Back+Web+Development.;Lover+of+Clean+Code+and+Minimal+UI."/>
 </p>
 
 <p align="center">
@@ -16,41 +16,71 @@
 
 ## 🧠 About Me
 
-- 🔭 Building a decentralized funding platform (**CrowdChain**)
-- 💬 Skilled in **Full Stack**, **Blockchain**, **DSA**, and **Cybersecurity**
-- 🧠 Exploring **Ollama**, **LangChain**, and **LLMs** for smart agents
-- ⚡ Obsessive about design systems, beautiful UI, and scalable backend
+- 🔭 Building **CrowdChain** – A decentralized crowdfunding platform
+- ⚡ Skilled in **Full Stack**, **Blockchain**, **Cybersecurity**, and **DSA**
+- 🧠 Currently learning: **Ollama**, **LangChain**, **Smart Contracts**
+- ✨ I love blending beautiful UI with strong backend architecture
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Tech Stack & Skills
 
-<!-- Same badges from earlier (shortened here) -->
+**Languages**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+
+**Frontend**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react) 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css) 
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)  
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js) 
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express) 
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb) 
+![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
+
+**Blockchain / AI**  
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity) 
+![MetaMask](https://img.shields.io/badge/-MetaMask-F6851B?style=flat-square&logo=metamask) 
+![Hardhat](https://img.shields.io/badge/-Hardhat-yellow?style=flat-square) 
+![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat-square) 
+![LangChain](https://img.shields.io/badge/-LangChain-purple?style=flat-square)
+
+**Cybersecurity Tools**  
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat-square&logo=wireshark)
+![Nmap](https://img.shields.io/badge/-Nmap-blue?style=flat-square)
+![John the Ripper](https://img.shields.io/badge/-John%20the%20Ripper-darkred?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-orange?style=flat-square)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 CrowdChain – Decentralized Crowdfunding Platform  
-> Funding projects like Shark Tank, but powered by smart contracts.
+### 🧩 CrowdChain – Future of Online Shark Tank
+> A decentralized crowdfunding platform to support ideas with milestone-based smart contracts.
 
-[![CrowdChain Screenshot](https://your-image-link1.jpg)](https://github.com/NayanSadariya/CrowdChain)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW5kNjZxbjVkNmV6bHYzMnJoZTR4dWtyemVndm43Y2o4dDcyODhlYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 
-**Tech:** Next.js · TailwindCSS · Solidity · Hardhat · Ethers.js  
-🔗 [Live Demo](https://crowdchain.vercel.app/) | 📂 [Source Code](https://github.com/NayanSadariya/CrowdChain)
-
----
-
-### 📱 CityScan AI – Smart Civic Issue Detection  
-> An AI-powered platform that detects city issues like potholes via CCTV.
-
-[![CityScan Screenshot](https://your-image-link2.jpg)](https://github.com/NayanSadariya/CityScan-AI)
-
-**Tech:** React Native · TensorFlow · Flask · MongoDB  
-🔗 [Live Demo](https://cityscan.vercel.app/) | 📂 [Source Code](https://github.com/NayanSadariya/CityScan-AI)
+**Tech Stack**: Next.js · TailwindCSS · Solidity · Hardhat · Ethers.js  
+🔗 [LinkedIn Demo](https://www.linkedin.com/posts/nayan-sadariya_crowdfunding-blockchain-permissionless-activity-7281310372563742720-fsur) | 📂 [Source Code](https://github.com/NayanSadariya/CrowdChain-The-future-of-Shark-Tank.git)
 
 ---
 
+### 🛹 Suburbia – E-Commerce Skateboard Website
+> Smooth modern UI experience with React + 3D animation using Three.js.
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3FlMmI0cmt2NjhkcTRjOGg5a3I5OHU4ZXh4b21rZWx0ZTBvMXFrbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TxVVB6PfWMjE4/giphy.gif" width="100%" />
+
+**Tech Stack**: React · Next.js · Prismic · Three.js · Physics.js  
+🔗 [Live Demo](https://suburbia-skates-nayan.netlify.app/) | 📂 [Source Code](https://github.com/NayanSadariya/Skateboard-Website.git)
+
+---
 
 ## 🏆 GitHub Stats & Activity
 
@@ -60,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NayanSadariya&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NayanSadariya&theme=algolia" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NayanSadariya&theme=react-dark&area=true&hide_border=true" />
 </p>
 
