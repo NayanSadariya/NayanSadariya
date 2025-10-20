@@ -114,8 +114,8 @@
 ## 📬 Connect with Me
 
 <p align="center">
-  <a href="mailto:nayansadariya84@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://nayan-sadariya.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8E44AD?style=for-the-badge"></a>
+  <a href="mailto:contact.nayannn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://nayann.in"><img src="https://img.shields.io/badge/Portfolio-8E44AD?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/nayan-sadariya/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
